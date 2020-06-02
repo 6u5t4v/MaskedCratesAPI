@@ -3,7 +3,7 @@
 [![](https://jitpack.io/v/6u5t4v/MaskedCratesAPI.svg)](https://jitpack.io/#6u5t4v/MaskedCratesAPI)
 
 To get the Git project into your build:
-You can download the jar file from here: https://github.com/Angeschossen/LandsAPI/releases
+You can download the jar file from here: https://github.com/6u5t4v/MaskedCratesAPI/releases
 
 ### How to include the API with Maven:
 **Step 1. Add the JitPack repository to your build file**
