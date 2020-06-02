@@ -1,4 +1,4 @@
-# MaskedCratesAPI
+# MaskedCratesAPI NOT USABLE, UNDER PROGRESS
 
 [![](https://jitpack.io/v/6u5t4v/MaskedCratesAPI.svg)](https://jitpack.io/#6u5t4v/MaskedCratesAPI)
 
