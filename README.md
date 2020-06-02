@@ -20,7 +20,7 @@ You can download the jar file from here: https://github.com/6u5t4v/MaskedCratesA
 <dependency>
     <groupId>com.github.6u5t4v</groupId>
     <artifactId>MaskedCratesAPI</artifactId>
-    <version>-SNAPSHOT</version>
+    <version>1.0.0</version>
 </dependency>
  ```
  ### How to include the API with Gradle
@@ -30,7 +30,7 @@ repositories {
 		maven { url 'https://jitpack.io' }
 }
 dependencies {
-    implementation 'com.github.6u5t4v:MaskedCratesAPI:-SNAPSHOT'
+    implementation 'com.github.6u5t4v:MaskedCratesAPI:1.0.0'
 }
  ```
  
